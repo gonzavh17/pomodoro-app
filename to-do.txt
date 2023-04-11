@@ -1,0 +1,18 @@
+				COSAS QUE TENDRA LA WEB
+1-Pomodoro
+2-Todo List (local storage)
+3-Quotes generator (API)
+4-Descripcion del metodo pomodoro
+5-Playlist de spotify
+6-Modo oscuro/claro
+				COMPONENTES LOGICOS
+1-Componentes logicos del Pomodor: Timer, Componente de funcionalidad (start, stop, reset, sumar al total de periodos)
+2-Componentes logicos de to do list:
+3-Componentes logicos del Quotes generator: 
+
+				COMPONENTES DE HTML
+1-Componente que renderice el pomodoro
+
+
+
+

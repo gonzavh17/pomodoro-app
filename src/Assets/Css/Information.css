@@ -1,0 +1,43 @@
+.information{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border-top: 1px solid #000;
+}
+
+.information-title{
+    font-size: 28px;
+    margin: 15px;
+    border-bottom: 1px solid #000;
+    padding: 10px;
+    text-align: center;
+}
+
+.pomodoro-information{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.information-description{
+    margin: 0 40px;
+    font-size: 20px;
+}
+
+.pomodoro-list{
+    display: flex;
+    justify-content: center;
+    padding: 4px;
+}
+@media (max-width: 899px) {
+    .information{
+        height: auto;
+    }
+
+    .pomodoro-information-responsive{
+        margin-bottom: 50px;
+    }
+}
